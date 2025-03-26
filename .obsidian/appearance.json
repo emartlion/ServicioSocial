@@ -1,1 +1,6 @@
-{}
+{
+  "cssTheme": "Things",
+  "interfaceFontFamily": "SF Display",
+  "textFontFamily": "SF Text",
+  "monospaceFontFamily": "SF Mono"
+}
